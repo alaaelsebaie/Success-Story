@@ -1,5 +1,3 @@
-# Success-Story
-Success Story
 <!DOCTYPE html>
 <html lang="en">
 <head>
